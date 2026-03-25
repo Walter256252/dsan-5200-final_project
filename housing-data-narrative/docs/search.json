@@ -32,7 +32,7 @@
     "href": "index.html",
     "title": "Should You Buy a Home — and Where?",
     "section": "",
-    "text": "For years, buying a home was treated as the obvious path to financial stability. But rising home prices, higher mortgage rates, and uneven local markets have changed the math.\nThis project explores two connected questions:\n\nWhen does it make more sense to rent instead of buy?\nIn which housing markets does buying still offer strong long-term potential?"
+    "text": "For years, homeownership was treated as the default path to financial stability. But in high-cost markets, that assumption is harder to defend than it once was.\nThis project begins with Washington, DC, where home prices, rents, and borrowing costs have all shifted dramatically since 2016.\nThe central question is not just whether buying is better than renting, but where buying still makes sense as an investment."
   },
   {
     "objectID": "index.html#the-housing-decision-isnt-simple-anymore",
@@ -46,7 +46,7 @@
     "href": "index.html#why-this-matters",
     "title": "Should You Buy a Home — and Where?",
     "section": "Why This Matters",
-    "text": "Why This Matters\nHousing is not just a monthly payment. It affects wealth-building, mobility, and long-term financial security.\nThis project uses data to show that the answer is not just whether you should buy a home, but also where."
+    "text": "Why This Matters\nThe relationship between home prices and rents is critical for understanding housing affordability and investment potential.\nWhile both have increased since 2016, home prices rose more sharply especially during the 2020–2022 period creating a growing gap between the cost of owning and the income a property can generate through rent.\nThis divergence has important implications:\n\nFor residents, it makes homeownership less accessible relative to renting\nFor investors, it reduces potential returns, since purchase prices are rising faster than rental income\n\nIn other words, even though the housing market has cooled slightly, the underlying economics of buying especially in a high-cost market like Washington, DC remain challenging."
   },
   {
     "objectID": "index.html#what-this-project-will-show",
@@ -89,5 +89,47 @@
     "title": "About the Project",
     "section": "Project Goals",
     "text": "Project Goals\nThe goals of this project are to:\n\ntell a clear and engaging housing story\nuse data responsibly and accessibly\ncombine analysis with narrative design\ncreate both static and interactive visualizations"
+  },
+  {
+    "objectID": "index.html#the-question",
+    "href": "index.html#the-question",
+    "title": "Should You Buy a Home — and Where?",
+    "section": "",
+    "text": "For years, homeownership was treated as the default path to financial stability. But in high-cost markets, that assumption is harder to defend than it once was.\nThis project begins with Washington, DC, where home prices, rents, and borrowing costs have all shifted dramatically since 2016.\nThe central question is not just whether buying is better than renting, but where buying still makes sense as an investment."
+  },
+  {
+    "objectID": "index.html#why-start-with-dc",
+    "href": "index.html#why-start-with-dc",
+    "title": "Should You Buy a Home — and Where?",
+    "section": "Why Start with DC?",
+    "text": "Why Start with DC?\nWashington, DC is a useful case study because it combines many of the pressures shaping the modern housing market: high prices, strong demand, limited affordability, and a large population of renters.\nFor many households, DC represents the kind of market where buying may feel desirable, but not always financially realistic."
+  },
+  {
+    "objectID": "index.html#how-home-prices-changed",
+    "href": "index.html#how-home-prices-changed",
+    "title": "Should You Buy a Home — and Where?",
+    "section": "How Home Prices Changed",
+    "text": "How Home Prices Changed\nSince 2016, typical home values in Washington, DC have remained high and continued to rise, even as mortgage conditions became less favorable."
+  },
+  {
+    "objectID": "index.html#how-rents-changed",
+    "href": "index.html#how-rents-changed",
+    "title": "Should You Buy a Home — and Where?",
+    "section": "How Rents Changed",
+    "text": "How Rents Changed\nRents in Washington, DC also increased over time, but not always at the same pace as home values. That gap matters because it affects both affordability and investment return."
+  },
+  {
+    "objectID": "index.html#how-home-prices-changed-in-washington-dc",
+    "href": "index.html#how-home-prices-changed-in-washington-dc",
+    "title": "Should You Buy a Home — and Where?",
+    "section": "How Home Prices Changed in Washington, DC",
+    "text": "How Home Prices Changed in Washington, DC\nSince 2016, typical home values in Washington, DC have followed a clear upward trajectory, rising from just under $500,000 to a peak above $640,000 in 2022.\nThis increase accelerated significantly during the 2020–2022 period, when historically low interest rates and heightened housing demand pushed prices upward at a faster pace than in previous years. However, after reaching their peak, home values began to stabilize and slightly decline through 2023–2025.\nThis shift reflects a broader change in market conditions. As mortgage rates increased, borrowing became more expensive, reducing demand and slowing price growth. Even so, prices have remained elevated relative to pre-2020 levels, suggesting that affordability has not meaningfully improved despite the recent cooling."
+  },
+  {
+    "objectID": "index.html#how-rents-changed-in-washington-dc",
+    "href": "index.html#how-rents-changed-in-washington-dc",
+    "title": "Should You Buy a Home — and Where?",
+    "section": "How Rents Changed in Washington, DC",
+    "text": "How Rents Changed in Washington, DC\nRents in Washington, DC also increased over time, but followed a different pattern than home prices.\nFrom 2016 through early 2020, rents rose steadily, reflecting consistent demand in the rental market. However, a noticeable dip occurs around 2020–2021, likely due to pandemic-related disruptions, including reduced urban demand and temporary migration away from city centers.\nAfter this decline, rents rebounded quickly and continued to rise through 2023 and 2024, reaching new highs near $2,500 per month. Unlike home prices, rents did not experience the same level of decline in recent years, indicating that rental demand has remained relatively strong."
   }
 ]
