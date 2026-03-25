@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.7;
+  font-size: 18px;
+}
+
+h1, h2, h3 {
+  font-weight: 700;
+}
+
+.navbar {
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+}
+
+.quarto-title-banner {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+main {
+  max-width: 900px;
+  margin: auto;
+}

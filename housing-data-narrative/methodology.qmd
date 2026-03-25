@@ -1,0 +1,22 @@
+---
+title: "Methodology"
+format: html
+---
+
+## Data Sources
+
+This page will document all datasets used in the project, including housing prices, rent estimates, mortgage rates, and any supporting market indicators.
+
+## Planned Methods
+
+This project will likely include:
+
+- descriptive analysis
+- time series comparisons
+- affordability calculations
+- rent-to-price ratio analysis
+- city-level market comparisons
+
+## Notes
+
+This page will serve as the technical appendix for the final project.

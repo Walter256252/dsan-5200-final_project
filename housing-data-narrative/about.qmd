@@ -1,0 +1,27 @@
+---
+title: "About the Project"
+format: html
+---
+
+## Project Overview
+
+This project is a data-driven narrative focused on housing affordability and real estate opportunity.
+
+It combines public housing data, rental data, and mortgage rate information to help explain:
+
+- when buying may not be the best financial move
+- why some housing markets are more favorable than others
+- how location changes both affordability and investment potential
+
+## Audience
+
+The intended audience is the general public, especially people trying to understand the real tradeoffs between renting and buying.
+
+## Project Goals
+
+The goals of this project are to:
+
+- tell a clear and engaging housing story
+- use data responsibly and accessibly
+- combine analysis with narrative design
+- create both static and interactive visualizations

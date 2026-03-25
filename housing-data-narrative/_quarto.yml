@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Should You Buy a Home — and Where?"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Story
+      - href: about.qmd
+        text: About
+      - href: methodology.qmd
+        text: Methodology
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    smooth-scroll: true

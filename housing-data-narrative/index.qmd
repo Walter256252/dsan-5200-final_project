@@ -1,0 +1,40 @@
+---
+title: "Should You Buy a Home — and Where?"
+author: "Walter Hall"
+subtitle: "A data-driven narrative about renting, buying, and real estate opportunity"
+format: html
+---
+
+## The Housing Decision Isn’t Simple Anymore
+
+For years, buying a home was treated as the obvious path to financial stability. But rising home prices, higher mortgage rates, and uneven local markets have changed the math.
+
+This project explores two connected questions:
+
+1. When does it make more sense to rent instead of buy?
+2. In which housing markets does buying still offer strong long-term potential?
+
+## Why This Matters
+
+Housing is not just a monthly payment. It affects wealth-building, mobility, and long-term financial security.
+
+This project uses data to show that the answer is not just **whether** you should buy a home, but also **where**.
+
+## What This Project Will Show
+
+This narrative will examine:
+
+- trends in home prices, rents, and mortgage rates
+- the changing cost of ownership over time
+- why location changes the rent-versus-buy decision
+- which markets may offer stronger investment opportunities
+
+## Roadmap
+
+The full story will eventually include:
+
+- a housing market overview
+- a rent vs. buy cost comparison
+- an interactive decision tool
+- market comparisons across cities
+- a final summary infographic
