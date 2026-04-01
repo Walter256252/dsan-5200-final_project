@@ -7,56 +7,73 @@ format: html
 
 ## The Question
 
-For years, homeownership was treated as the default path to financial stability. But in high-cost markets, that assumption is harder to defend than it once was.
+For decades, homeownership has been treated as a reliable path to financial stability. Buying a home was not just a lifestyle choice, but a widely accepted way to build wealth over time.
 
-This project begins with Washington, DC, where home prices, rents, and borrowing costs have all shifted dramatically since 2016.
+But in today’s housing market, that assumption is no longer as clear as it once was.
 
-The central question is not just whether buying is better than renting, but where buying still makes sense as an investment.
+In high-cost cities, rising home prices, changing rents, and higher borrowing costs have all reshaped the economics of buying. That raises a simple but increasingly important question:
 
-## Why Start with DC?
+**Is buying still worth it, and does the answer depend on where you live?**
 
-Washington, DC is a useful case study because it combines many of the pressures shaping the modern housing market: high prices, strong demand, limited affordability, and a large population of renters.
+---
 
-For many households, DC represents the kind of market where buying may feel desirable, but not always financially realistic.
+## Why Washington, DC Is the Test Case
 
-## How Home Prices Changed in Washington, DC
+To answer that question, this project begins with Washington, DC.
 
-Since 2016, typical home values in Washington, DC have followed a clear upward trajectory, rising from just under $500,000 to a peak above $640,000 in 2022.
+DC is a useful place to start because it reflects many of the pressures shaping the modern housing market: high prices, strong demand, limited affordability, and a large renter population. It is a place where buying still carries social and financial appeal, but where that decision has become harder to justify on purely economic terms.
 
-This increase accelerated significantly during the 2020–2022 period, when historically low interest rates and heightened housing demand pushed prices upward at a faster pace than in previous years. However, after reaching their peak, home values began to stabilize and slightly decline through 2023–2025.
+If the traditional promise of homeownership is breaking down anywhere, it is likely to be visible here.
 
-This shift reflects a broader change in market conditions. As mortgage rates increased, borrowing became more expensive, reducing demand and slowing price growth. Even so, prices have remained elevated relative to pre-2020 levels, suggesting that affordability has not meaningfully improved despite the recent cooling.
+---
+
+## DC Got More Expensive, But Not in the Same Way for Buyers and Renters
+
+Since 2016, home values in Washington, DC have followed a clear upward trajectory, rising from just under $500,000 to a peak above $640,000 in 2022.
+
+This increase accelerated sharply during the 2020–2022 period, when low interest rates and heightened housing demand pushed prices upward at a much faster pace than in earlier years. Although prices have cooled slightly since then, they remain far above pre-2020 levels.
 
 ![](images/dc_home_prices.png)
 
-## How Rents Changed in Washington, DC
+Rents also increased over time, but followed a different pattern.
 
-Rents in Washington, DC also increased over time, but followed a different pattern than home prices.
-
-From 2016 through early 2020, rents rose steadily, reflecting consistent demand in the rental market. However, a noticeable dip occurs around 2020–2021, likely due to pandemic-related disruptions, including reduced urban demand and temporary migration away from city centers.
-
-After this decline, rents rebounded quickly and continued to rise through 2023 and 2024, reaching new highs near $2,500 per month. Unlike home prices, rents did not experience the same level of decline in recent years, indicating that rental demand has remained relatively strong.
+From 2016 through early 2020, rents rose steadily. During the pandemic, rents dipped briefly as demand shifted away from dense urban areas. That decline was temporary. By 2023 and 2024, rents had rebounded and reached new highs near $2,500 per month.
 
 ![](images/dc_rents.png)
 
-## Why This Matters
+At first glance, both charts tell the same story: housing in DC has become more expensive.
 
-The relationship between home prices and rents is critical for understanding housing affordability and investment potential.
+But the more important point is that prices and rents did **not** rise at the same pace.
 
-While both have increased since 2016, home prices rose more sharply especially during the 2020–2022 period creating a growing gap between the cost of owning and the income a property can generate through rent.
+---
 
-This divergence has important implications:
+## The Cost of Owning vs Renting
 
-- For residents, it makes homeownership less accessible relative to renting
+That difference matters because home prices alone do not determine whether buying is affordable. What households actually experience is the **monthly cost of owning**, and that cost depends not only on price, but also on mortgage rates.
 
-- For investors, it reduces potential returns, since purchase prices are rising faster than rental income
+Over the past several years, mortgage rates have risen sharply, especially after 2022. That change made borrowing much more expensive, even in a market where home prices had begun to stabilize.
 
-In other words, even though the housing market has cooled slightly, the underlying economics of buying especially in a high-cost market like Washington, DC remain challenging.
+As a result, the monthly cost of owning a home increased faster than home prices alone would suggest.
 
+![](images/dc_own_vs_rent.png)
 
-## How Investment Potential Differs Across Cities
+The chart above compares estimated monthly mortgage payments for a typical home in Washington, DC with average monthly rent.
 
-While Washington, DC is the anchor of this project, it is not representative of every housing market. To compare investment potential across cities, I use rent yield, which measures annual rental income relative to home value.
+In earlier years, the cost of owning and renting were relatively close. But as home prices increased and mortgage rates spiked, the cost of owning moved far above renting.
+
+This helps explain why affordability has not meaningfully improved, even as the housing market has cooled.
+
+For buyers, higher monthly payments make it harder to enter the market. For investors, higher financing costs further reduce the return a property can generate.
+
+That leads to a broader question: if buying has become less attractive in DC, does it make more sense somewhere else?
+
+---
+
+## Where Buying Still Looks Stronger
+
+Washington, DC is not representative of every housing market. To compare cities, I use **rent yield**, which measures annual rental income relative to home value.
+
+Rent yield is useful because it captures the relationship between what a property costs and what it can earn. Higher rent yield generally signals stronger cash-flow potential, while lower rent yield suggests that purchase prices are high relative to rental income.
 
 ```{=html}
 <iframe
@@ -65,49 +82,128 @@ While Washington, DC is the anchor of this project, it is not representative of 
   height="650"
   style="border:none;">
 </iframe>
-```
-## What the Data Shows
 
-The chart reveals a clear and consistent difference in investment potential across housing markets. Rent yield, which measures annual rental income relative to home value, varies significantly by city.
+The differences across cities are substantial.
 
-Washington, DC consistently appears on the lower end of the distribution, with rent yield typically around 4–5%. This suggests that home prices in DC are high relative to the income those properties can generate through rent.
+I selected these cities to represent a range of housing markets, from expensive urban centers to more affordable secondary cities. I also have a personal connection to them, having lived in each of these places at different points in my life.
 
-In contrast, smaller and lower-cost markets such as Augusta, GA and Columbus, GA show substantially higher rent yields, often in the range of 8–11%. These cities offer stronger cash flow potential because home prices are lower relative to rents.
+Washington, DC consistently falls on the lower end of the distribution, with rent yield typically around 4 to 5 percent. That suggests home prices are high relative to the income properties can generate.
 
-Mid-tier markets like Chicago and Tacoma fall somewhere in between, with moderate rent yields that reflect a more balanced relationship between home values and rental income.
+In contrast, cities such as Augusta, GA and Columbus, GA show much higher rent yields, often in the range of 8 to 11 percent. These markets offer stronger cash-flow potential because home prices are lower relative to rents.
 
----
+Cities like Chicago and Tacoma fall somewhere in between, representing more balanced markets where housing costs and rental income move more closely together.
 
-## How Rent Yield Has Changed Over Time
+## Where geography changes the story
 
-Across nearly all cities, rent yield trends downward over time, particularly during the 2020–2022 period. This pattern reflects a broader shift in the housing market: home prices increased more rapidly than rents.
+The differences across housing markets are not just financial, they are geographic.
 
-This divergence is especially visible in higher-cost markets. In Washington, DC, rent yield declined during the period when home values surged, indicating that the financial return on purchasing property weakened even as prices rose.
+The map below makes that pattern easier to see. High-cost coastal and urban markets tend to cluster with lower rent yield, while more affordable cities in the Southeast and interior regions often show stronger income potential relative to price.
 
-Even in cities with higher initial rent yield, the same pattern appears suggesting that rising home values have compressed returns across many markets.
+Geography helps explain why housing outcomes vary so widely. The same investment can behave very differently depending on where it is located.
 
----
+<iframe src="images/housing_map.html" width="100%" height="700" style="border:none;"></iframe>
 
-## Why Washington, DC Stands Out
+## A Broader Trend: Returns Are Getting Compressed
 
-Washington, DC represents a high-demand, high-cost housing market. While it offers stability and long-term appreciation potential, it does not provide strong rental returns relative to its price level.
+This pattern is not limited to one city.
 
-At most points in time, DC’s rent yield remains below that of every comparison city in this analysis. This indicates that buyers in DC are paying a premium for location, rather than maximizing income-generating potential.
+Across nearly all markets in this analysis, rent yield declines over time, especially during the 2020–2022 period. That reflects a broader national trend in which home prices increased faster than rents.
 
-From an investment perspective, this makes DC less attractive for cash flow focused strategies, even though it may still appeal for other reasons such as job access, amenities, or long-term value preservation.
+Even in cities that still offer relatively high rent yield, this compression suggests that housing has become a less attractive investment from a purely income-driven perspective.
 
----
+In high-cost markets like Washington, DC, that effect is especially visible.
 
-## What This Means for Buyers and Investors
+## Price and Yield Across Cities
 
-These differences highlight a critical distinction in the housing decision.
+Rent yield shows which cities offer stronger rental return, but it becomes even more useful when paired with home prices.
 
-In markets like Washington, DC, buying a home may still make sense for personal or lifestyle reasons, but the financial return—particularly in terms of rental income—is relatively limited.
+The interactive chart below compares cities by typical home value and rent yield. Higher points represent stronger rental return relative to price, while points farther to the right represent more expensive housing markets.
 
-In contrast, cities with higher rent yield offer stronger income potential and may be more attractive for investment-oriented buyers.
+<iframe
+  src="images/price_vs_yield_interactive.html"
+  width="100%"
+  height="700"
+  style="border:none;">
+</iframe>
 
-This suggests that the question is not simply whether to buy a home, but where buying aligns with financial goals. For individuals prioritizing cash flow or return on investment, lower-cost markets may provide more favorable conditions than high-cost urban centers.
+Together, these two dimensions make the tradeoff easier to see. Some cities are expensive but generate weak rental returns, while others offer lower purchase prices and stronger income potential.
 
----
+That distinction helps explain why the answer to “Should you buy?” increasingly depends on where you are buying.
 
-**In other words, the same dollar invested in different cities can produce dramatically different outcomes.**
+## Exploring Cities in Detail
+
+Broad comparisons are useful, but they do not show how each housing market evolved over time.
+
+The linked view below allows you to explore that history more directly. Click on any city in the comparison chart to see how home prices and rents changed over time.
+
+<iframe
+  src="images/linked_view.html"
+  width="100%"
+  height="700"
+  style="border:none;">
+</iframe>
+
+This makes it easier to see why some markets now sit higher or lower on the rent-yield spectrum. In some cities, prices surged far faster than rents. In others, rents held up more strongly relative to home values.
+
+## Why DC Stands Out
+
+Washington, DC represents a particular kind of housing market: one where buyers pay a premium for location, stability, and long-term value. However, that premium comes at a cost.
+
+Compared with the other cities in this analysis, DC consistently delivers lower rental returns relative to its price level. Buyers are effectively paying more for each dollar of rental income than they would in many lower-cost markets.
+
+From an investment perspective, that makes DC less attractive for cash-flow-focused strategies, even if it still holds appeal for other reasons such as career access, amenities, or long-term appreciation.
+
+## What This Means for Different Types of Buyers
+
+The implications of these findings depend on the goals of the buyer.
+
+For someone buying a home for personal use, factors like neighborhood, lifestyle, family stability, and long-term plans may matter more than short-term financial return. In that case, buying in a high-cost market may still make sense.
+
+For investors, however, the calculation is different. Markets with higher rent yield offer stronger income potential and may produce better returns in the short to medium term. Lower-cost cities often provide more favorable conditions for generating cash flow.
+
+The key shift is this:
+
+**Homeownership is no longer a universally reliable path to financial return.**
+
+Instead, it has become highly dependent on location.
+
+In high-cost markets like Washington, DC, buyers often pay a premium for stability, access, and long-term appreciation, but receive relatively weak rental returns in exchange. In lower-cost markets, that tradeoff reverses: buyers give up some location advantages but gain stronger income potential.
+
+The question is no longer simply whether buying is better than renting.  
+It is whether buying in a specific market aligns with your financial goals.
+
+## Three Types of Housing Markets
+
+The graphic below summarizes three common market types that emerge from this analysis.
+
+![](images/market_types_infographic.png)
+
+At one end are high-cost, low-yield markets like Washington, DC, where buyers pay more for stability and location than for income potential. In the middle are more balanced markets, where prices and rents move more closely together. At the other end are lower-cost, higher-yield cities, where properties may offer stronger cash flow even if they lack the prestige of larger coastal markets.
+
+## Limitations
+
+This analysis is intended to highlight broad patterns in housing markets, but several limitations should be considered when interpreting the results.
+
+First, the data used in this project comes from Zillow’s aggregated home value and rent estimates. These reflect market averages rather than individual property characteristics, and may not capture local variation within cities.
+
+Second, rent yield is a simplified measure of investment return. It does not account for important costs such as property taxes, maintenance, insurance, vacancy risk, or transaction costs. As a result, actual investment returns may differ from the values shown here.
+
+Third, the estimates of monthly ownership costs are based on general assumptions about mortgage rates and financing conditions. Individual buyers may face different terms depending on credit, down payment, and timing.
+
+Finally, this analysis focuses on financial outcomes and does not fully capture non-financial factors such as lifestyle preferences, job opportunities, or long-term personal goals, all of which play an important role in housing decisions.
+
+These limitations mean that the results should be interpreted as directional insights rather than precise financial advice.
+
+## Final Thoughts
+
+Housing is no longer a uniform investment across locations.
+
+In high-cost cities like Washington, DC, buyers often trade financial return for access, stability, and long-term appreciation. In lower-cost markets, buyers may give up some location advantages but gain stronger income potential.
+
+The result is a fragmented housing landscape where outcomes vary sharply by geography.
+
+What once functioned as a broadly reliable wealth-building strategy has become a set of tradeoffs. In some cities, buying still offers strong financial potential. In others, it requires accepting lower returns in exchange for stability, access, or long-term appreciation.
+
+Understanding those tradeoffs is now essential.
+
+The same decision, buying a home, can lead to very different outcomes depending on where it is made. The question is no longer simply whether to buy, but where to buy, and how that choice aligns with your financial goals and personal priorities.
